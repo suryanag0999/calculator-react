@@ -5,7 +5,7 @@ This is a simple calculator built using React. It supports basic arithmetic oper
 
 ## Features
 - Basic arithmetic operations: `+`, `-`, `*`, `/`
-- Clear (`C`) button to reset the displ
+- Clear (`C`) button to reset the disp
 - Evaluates expressions when `=` is pressed
 - Responsive button layout using CSS Grid
 - Styled with a simple and clean UI
